@@ -1,4 +1,4 @@
-console.log('Tools active');
+console.log(`Tools active:`);
 var underscore = require('underscore');
 var fs = require('fs');
 var build = function(str) {
