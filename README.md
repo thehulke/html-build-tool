@@ -13,6 +13,7 @@ Run node on folder
 
 ## Code Example
 ```js
+  // node
   var tools = require('./index.js');
   var h1 = tools.head('hello world');
   var newUl = tools.ul(['list item 1', 'list item 2']);
