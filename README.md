@@ -12,7 +12,9 @@ Run node on folder
 
 
 ## Code Example
-` var tools = require('./index.js');
+```js
+  var tools = require('./index.js');
   var h1 = tools.head('hello world');
   var newUl = tools.ul(['list item 1', 'list item 2']);
-  tools.build(h1 + newUl);`
+  tools.build(h1 + newUl);
+  ```
