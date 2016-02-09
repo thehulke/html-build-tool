@@ -1,6 +1,6 @@
 # Web Build Tool
 
-*Download* `npm install https://github.com/thehulke/html-build-tool`.
+**Download** `npm install https://github.com/thehulke/html-build-tool`.
 
 Run node on folder
 ## Functions
